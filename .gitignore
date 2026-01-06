@@ -1,0 +1,15 @@
+# Data outputs (keep local only)
+data/bronze/
+data/silver/
+data/gold/
+data/rejects/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Env / secrets
+.env
+.DS_Store
+
